@@ -139,7 +139,7 @@
       },
     section =
       {
-        format = \zihao { -4 } \bfseries \heiti \raggedright
+        format = \zihao { 4 } \bfseries \heiti \raggedright
       },
   }
 
