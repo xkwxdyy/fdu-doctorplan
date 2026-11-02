@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="390" viewBox="0 0 1200 390" role="img" aria-labelledby="title desc">
+  <title id="title">fdu-doctorplan · 博士科研计划书</title>
+  <desc id="desc">复旦大学博士科研计划书模板。封面信息由 fdpsetup 设置，正文依次组织立题依据、研究内容、研究方法和考核指标。</desc>
+  <!-- Sources: templates/main.tex, templates/body/ and fdu-doctorplan.cls. -->
+  <rect width="1200" height="390" rx="12" fill="#f3f5f0"/>
+  <g id="research-plan-title" fill="#213f36">
+    <text x="58" y="64" font-family="ui-monospace, 'SFMono-Regular', Menlo, monospace" font-size="28">fdu-doctorplan</text>
+    <text x="54" y="173" font-family="'Songti SC', 'STSong', 'Noto Serif CJK SC', serif" font-size="79">博士科研计划书</text>
+    <text x="58" y="240" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', sans-serif" font-size="32">封面信息与研究正文分别维护</text>
+  </g>
+  <g id="cover-fields" fill="#213f36" font-family="ui-monospace, 'SFMono-Regular', Menlo, monospace">
+    <path d="M 742 61 V 253" stroke="#bccac1" stroke-width="1.5"/>
+    <text x="788" y="89" font-size="32">\fdpsetup</text>
+    <text x="788" y="141" font-size="24">name · department</text>
+    <text x="788" y="186" font-size="24">major · research-area</text>
+    <text x="788" y="231" font-size="24">supervisor · student-id</text>
+  </g>
+  <path d="M 58 286 H 1142" fill="none" stroke="#bccac1" stroke-width="1.5"/>
+  <g id="chapter-order" fill="#213f36" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', sans-serif" font-size="33">
+    <text x="58" y="352">立题依据</text>
+    <text x="347" y="352">研究内容</text>
+    <text x="634" y="352">研究方法</text>
+    <text x="922" y="352">考核指标</text>
+  </g>
+  <path d="M 226 341 H 303 M 513 341 H 590 M 800 341 H 877" fill="none" stroke="#8ca194" stroke-width="1.5"/>
+</svg>
